@@ -1,6 +1,6 @@
 # Hi, I'm Pratheevsanjay 👋
 
-**Aspiring Data Scientist | Machine Learning Enthusiast | Data Analysis**
+**Aspiring Data Analyst | Machine Learning | Data Analysis**
 
 I'm passionate about turning data into actionable insights and building machine learning models that solve real-world problems. Currently exploring advanced ML techniques, NLP, and predictive analytics.
 
