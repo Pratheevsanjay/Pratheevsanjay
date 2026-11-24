@@ -86,3 +86,11 @@ Currently, I'm strengthening my skills in data analytics through hands-on projec
 ---
 
 ⭐ I'm continuously learning, building projects, and exploring opportunities in Data Analytics.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratheevsanjay&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratheevsanjay&layout=compact&theme=tokyonight)
