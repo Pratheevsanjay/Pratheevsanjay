@@ -12,8 +12,6 @@ Currently, I'm strengthening my skills in data analytics through hands-on projec
 
 ## 🛠️ Technical Skills
 
-## 🛠️ Technical Skills
-
 ### Programming & Data Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -35,7 +33,7 @@ Currently, I'm strengthening my skills in data analytics through hands-on projec
 
 ## 📊 Featured Projects
 
-### 1. Banking Credit Risk, Repayment Behaviour & Portfolio Analytics
+### 1. [Banking Credit Risk, Repayment Behaviour & Portfolio Analytics](https://github.com/Pratheevsanjay/Banking-Credit-Risk-Analytics)
 - Analysing credit card customer repayment behaviour and default risk.
 - Performing data cleaning, EDA and statistical analysis using Python.
 - Writing SQL queries using CTEs and window functions.
