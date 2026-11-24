@@ -63,12 +63,12 @@ Currently, I'm strengthening my skills in data analytics through hands-on projec
 - Practical Business Problem Solving
 
 ---
-
 ## 🤝 Connect With Me
 
-- LinkedIn: linkedin.com/in/Pratheevsanjay-s/
-- GitHub: github.com/Pratheevsanjay
-- LeetCode: leetcode.com/u/pratheevsanjay
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Pratheevsanjay-s/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Pratheevsanjay)
+
 
 ---
 
